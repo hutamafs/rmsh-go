@@ -63,4 +63,4 @@ go run main.go
 Server will run on:
 http://localhost:8080
 
-### Project URL: https://github.com/hutamafs/rmsh-go
+### Project URL: https://roadmap.sh/projects/blogging-platform-api

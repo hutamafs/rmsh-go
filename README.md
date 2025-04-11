@@ -40,7 +40,7 @@ personal-blog/
 
 ### 1. Clone the repo
 
-git clone https://github.com/yourusername/personal-blog.git
+git clone https://github.com/hutamafs/personal-blog.git
 cd personal-blog
 
 ### 2. Install dependencies
@@ -62,3 +62,5 @@ go run main.go
 
 Server will run on:
 http://localhost:8080
+
+### Project URL: https://github.com/hutamafs/rmsh-go
